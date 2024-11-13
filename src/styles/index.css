@@ -1,0 +1,14 @@
+/* 
+- este documento será el que contenga los reseteos y los estilos por defecto de nuestra aplicacion.
+- para que estos estilos se apliquen se deben importar en el archivo main.jsx
+- esta hoja de estilos será utilizada para los estilos globales de nuestra aplicacion.
+- para que un componente tenga sus propios estilos debemos crear una hoja de estilos para ese       componente.
+*/
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-family: sans-serif;
+}
